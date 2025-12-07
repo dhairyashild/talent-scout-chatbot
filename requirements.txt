@@ -1,15 +1,2 @@
-<<<<<<< HEAD
-streamlit>=1.28.0
-openai>=1.3.0
-python-dotenv>=1.0.0
-=======
 streamlit==1.28.0
-openai==1.3.0
-python-dotenv==1.0.0
-langchain==0.1.0
-langchain-openai==0.0.2
-google-generativeai==0.3.0
-anthropic==0.7.0
-pydantic==2.5.0
-requests==2.31.0
->>>>>>> 91126b9 (Complete TalentScout AI Hiring Assistant with OpenAI integration, AWS deployment, and systemd service)
+huggingface-hub==0.20.0
