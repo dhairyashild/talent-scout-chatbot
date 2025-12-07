@@ -1,4 +1,3 @@
-(venv) ubuntu@ip-10-0-2-99:~/talent-scout-chatbot$ cat app.py 
 import streamlit as st
 import random
 import re
